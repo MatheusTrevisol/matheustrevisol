@@ -1,9 +1,20 @@
 - 🌱 I’m currently learning Bootstrap, JavaScript, React.JS, Node.JS, Dart, Flutter e SQL.
+- Dev FullStack in progress..
 - Portfolio soon..
 
 ![ezgif com-gif-maker (2)](https://user-images.githubusercontent.com/78828471/131384090-fcd6c2c3-ac79-47a2-aaa1-c330a67c91bf.gif)
 
-### Opa, Muito bem vindo!👋
+<div> 
+  <a href="https://instagram.com/matheusm.trevisol" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ <a href="" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:matheusm.trevisol@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/matheus-trevisol-58aa6b201" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+
+##
+
+### Opa, Muito Prazer! 👋
+ 
+ ##
 
  <div>
   <a href="https://github.com/matheustrevisol">
@@ -23,12 +34,6 @@
 </div>
   
   ##
- 
-<div> 
-  <a href="https://instagram.com/matheusm.trevisol" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- <a href="" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:matheusm.trevisol@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/matheus-trevisol-58aa6b201" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
  
