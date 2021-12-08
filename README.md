@@ -1,5 +1,5 @@
-- 🌱 I’m currently learning Bootstrap, JavaScript, React.JS, Node.JS, Dart, Flutter e SQL.
-- Dev FullStack in progress..
+- 🌱 I’m currently learning Bootstrap, JavaScript, React.JS & Node.JS.
+- JavaScript FullStack in progress..
 - Portfolio soon..
 
 ![ezgif com-gif-maker (2)](https://user-images.githubusercontent.com/78828471/131384090-fcd6c2c3-ac79-47a2-aaa1-c330a67c91bf.gif)
