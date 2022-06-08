@@ -1,4 +1,5 @@
 - 🌱 I’m currently learning Bootstrap, JavaScript, React.JS & Node.JS.
+- PHP (CakePHP)
 - JavaScript FullStack in progress..
 - Portfolio soon..
 
