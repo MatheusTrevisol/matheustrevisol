@@ -1,7 +1,6 @@
-- 🌱 I’m currently learning Bootstrap, JavaScript, React.JS & Node.JS.
-- PHP (CakePHP)
-- JavaScript FullStack in progress..
-- Portfolio soon..
+- 🐱‍🏍 JavaScript FullStack in progress..
+- 🌱 Estudando JavaScript, React.js, Node.js, Next.js, MongoDB & Tailwind.
+- 🐱‍👤 Experiência desenvolvendo back-end em PHP com CakePHP
 
 ![ezgif com-gif-maker (2)](https://user-images.githubusercontent.com/78828471/131384090-fcd6c2c3-ac79-47a2-aaa1-c330a67c91bf.gif)
 
